@@ -1,3 +1,5 @@
+/*This code finds out second max out of 4 numbers
+*/
 object SecondMax {
     def main(args: Array[String]) : Unit = {
         var i,max,max2,num=0
